@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6cee553d69d6f8817e2f59e88778f42c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\4e2414c49934b7b2d066c8d3f7f817d9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\35590405c7aacdfcf2ef5cf9c1eeb161\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\870e92f539d5700f3ca5e0bc132029a2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\7e1c048219bf3e46f9bc2154148594af\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6cee553d69d6f8817e2f59e88778f42c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6cee553d69d6f8817e2f59e88778f42c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\4e2414c49934b7b2d066c8d3f7f817d9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\4e2414c49934b7b2d066c8d3f7f817d9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\35590405c7aacdfcf2ef5cf9c1eeb161\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\35590405c7aacdfcf2ef5cf9c1eeb161\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\870e92f539d5700f3ca5e0bc132029a2\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\870e92f539d5700f3ca5e0bc132029a2\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\7e1c048219bf3e46f9bc2154148594af\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\7e1c048219bf3e46f9bc2154148594af\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.asus.miniproject1.SplashScreen
+ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:name
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.asus.miniproject1.CurrencyList
+ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:25:19-47
+activity#com.example.asus.miniproject1.MainActivity
+ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:26:9-59
+	android:name
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml:26:19-47
+uses-sdk
+INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6cee553d69d6f8817e2f59e88778f42c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6cee553d69d6f8817e2f59e88778f42c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\4e2414c49934b7b2d066c8d3f7f817d9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\4e2414c49934b7b2d066c8d3f7f817d9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\35590405c7aacdfcf2ef5cf9c1eeb161\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\35590405c7aacdfcf2ef5cf9c1eeb161\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\870e92f539d5700f3ca5e0bc132029a2\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\870e92f539d5700f3ca5e0bc132029a2\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\7e1c048219bf3e46f9bc2154148594af\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\7e1c048219bf3e46f9bc2154148594af\AndroidManifest.xml:20:5-43
+INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\4e2414c49934b7b2d066c8d3f7f817d9\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+		ADDED from E:\MiniProject1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MiniProject1\app\src\main\AndroidManifest.xml
